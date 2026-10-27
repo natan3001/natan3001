@@ -1,33 +1,28 @@
-<h1 align='center'> Hi, I'm Natan 👋<br><br></h1>
+# Natan Martins dos Santos
 
-<br>
+Backend developer · PHP · Laravel · PostgreSQL · Chapecó, Brazil (UTC−3)
 
-- 🌱 I’m currently learning **React.js** and **React Native**
-- 💬 Ask me about **Web Development**
-- 📫 How to reach me:
-**[Linkedin](https://www.linkedin.com/in/natan-martins-dos-santos/)**
+Backend developer with 7+ years of PHP and Laravel. At IXC Soft, I work across all modules of an ERP for internet service providers that holds nearly 30% of the market and impacts 51 million Brazilians: I build and maintain features, optimize SQL queries and integrate systems through APIs. I also co-founded [Cortex Software](https://cortexsoftware.com.br), a small software house focused on web systems, performance and technical SEO.
 
-<br>
+Open to senior remote backend roles.
 
-```dart
-// tools_I_use organized
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Javascript", "PHP" },
-    "Frameworks/Libraries" : { "React Native", "ReactJS", "ExpressJS", "NextJS" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "JSON", "SASS", "Markdown" },
-    "Database" : { "MySQL", "PostgreSQL", "MongoDB", "Sqlite" },
-    "Editors" : { "Vscode", "Sublime" },
-    "Platforms" : { "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Npm", "Vite" }
-  };
-}
-```
+## Stack
 
-<br>
+- **Back end:** PHP, Laravel, CodeIgniter, REST APIs, queues and messaging
+- **Data:** PostgreSQL, MariaDB, MySQL, SQL query optimization
+- **Infrastructure:** Docker, AWS
+- **Front end:** Livewire, Alpine.js, JavaScript
+- **Also:** Python, Clean Architecture, DDD, automated testing
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natan3001&layout=compact&theme=dark&hide_border=true)
+<!--
+Remove this comment when the project is public.
 
-<br>
+## Featured project
 
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=natan3001&show_icons=true&hide_border=true&theme=dark)
+- [project-name](https://github.com/natan3001/project-name): Laravel and PostgreSQL (pgvector) API for AI-powered search over technical docs, with queues, tests, Docker and CI.
+-->
+
+## Contact
+
+- LinkedIn: [natan-martins-dos-santos](https://www.linkedin.com/in/natan-martins-dos-santos)
+- Email: natantcr@gmail.com
